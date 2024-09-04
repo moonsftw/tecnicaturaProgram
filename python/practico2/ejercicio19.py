@@ -40,6 +40,7 @@ class Calculo:
         print(f'Resta: {operacion.aplicarOperacion('-')}')
         print(f'Multiplicación: {operacion.aplicarOperacion('*')}')
         print(f'División: {operacion.aplicarOperacion('/')}')
+        
 
 if __name__ == "__main__":
     calculo = Calculo()
